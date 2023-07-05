@@ -2,7 +2,7 @@
 
 * Cotizador criptomonedas API *
 
-API: cryptocomparex
+API: cryptocompare
 
 ** Comandos para iniciar desarrollo del proyecto **
 ```
